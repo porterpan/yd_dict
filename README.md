@@ -35,9 +35,9 @@ $ pip install lxml
 
 # 如何使用
 
-|---|---|---|---|---|
 | 已启用|类型 |名称 | 命令行| 图标|
-| [v]|词典名称随意填|/词典路径/wordtag.py %GDWORD%|/图标路径/png.png|
+|---|---|---|---|---|
+| [v]|html|词典名称随意填|/词典路径/wordtag.py %GDWORD%|/图标路径/png.png|
 
 
 ![有道查词设置](./image/youdao1.png)
