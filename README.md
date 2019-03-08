@@ -13,6 +13,26 @@
 
 ![有道查词设置](./image/youdao2.png)
 
+# 运行环境
+
+需要在python3中使用，所以linux中必须要有python3哦
+
+```python
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+import requests
+from lxml import etree
+from sys import argv
+```
+所以如果出错先在python3环境下安装下面模块吧
+
+```python
+$ pip install requests #或者  pipenv install requests
+$ pip install lxml 
+```
+
+
 # 如何使用
 
 |---|---|---|---|---|
