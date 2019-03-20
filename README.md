@@ -61,6 +61,10 @@ $ pip install lxml
 
 - 添加了查词的在线单词发音获取功能
 
+具体的使用文件对象为：[python3环境下代码文件](./yd_dict_py3.py)
+
+具体的使用文件对象为：[python2环境下代码文件](./yd_dict_py2.py)
+
 # 方法二 使用本地网页实现有道查词功能
 
 ![有道查词设置](./image/youdao.gif)
@@ -97,3 +101,5 @@ $ pip install lxml
 </body>
 </html>
 ```
+
+具体的使用文件对象为：[html代码文件](./youdao.html)
