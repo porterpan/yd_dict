@@ -1,9 +1,13 @@
-#!/usr/bin/env python3
+#!/home/porter/anaconda3/bin python3.5
 # -*- coding: utf-8 -*-
 
 import requests
 from lxml import etree
 from sys import argv
+
+
+#---!/usr/bin/env python3
+# sss-*- coding: utf-8 -*-
 
 URL = "http://dict.youdao.com/w/eng/{}/#keyfrom=dict2.index"
 
